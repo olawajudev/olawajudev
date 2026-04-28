@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👤 Ibrahim Ayoola
+**VAPT Specialist (Vulnerability Assessment and Penetration Testing) | Web • Network • AD/Windows • Mobile • Cloud Security**
 
-<!--
-**olawajudev/olawajudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Advanced vulnerability assessment & penetration testing across full attack surfaces. Focused on structured methodology, CVSS-aligned risk reporting, and secure remediation guidance. All testing conducted in authorized, isolated lab environments only.
 
-Here are some ideas to get you started:
+> 🎓 **TryHackMe**: https://tryhackme.com/p/wajudev | 💼 **LinkedIn**: https://linkedin.com/in/olanrewaju-ayo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛡️ Core Expertise
+| Domain | Key Focus |
+|--------|-----------|
+| **Web App** | OWASP Top 10/API Top 10, Auth bypass, IDOR, JWT, SSRF, Business Logic |
+| **Network** | Service enumeration, CVE validation, Privilege escalation, Lateral movement |
+| **AD/Windows** | Kerberoasting, BloodHound mapping, GPO abuse, Domain escalation paths |
+| **Mobile** | APK reverse engineering, insecure storage, root bypass, API hooks |
+| **Cloud** | IAM misconfig, S3 exposure, metadata SSRF, container escapes |
+
+### 📂 Featured Projects (Lab-Only)
+| Project | Description | Link |
+|---------|-------------|------|
+| 🔍 AutoRecon-X | Modular recon pipeline: Nmap + Gobuster + Nuclei → structured JSON | [View Repo](https://github.com/olawajudev/autorecon-x) |
+| 📄 Web App Pentest Report | Professional engagement deliverable: 7 findings, CVSS v3.1, PoC, remediation | [View Report](https://github.com/olawajudev/vapt-webapp-report) |
+| 🌐 VAPT Lab Portfolio | Isolated environment write-ups: AD escalation, Cloud IAM, Mobile hooks | [View Labs](https://github.com/olawajudev/vapt-lab-portfolio) |
+
+### 📜 Methodology & Compliance
+- OWASP Testing Guide, PTES, NIST SP 800-115, MITRE ATT&CK
+- CVSS v3.1 scoring, risk prioritization, remediation validation
+- Executive + technical reporting, secure SDLC integration
+
+### 🔗 Connect
+📧 wajudev@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/olanrewaju-ayo) | 🎓 [TryHackMe](https://tryhackme.com/p/wajudev)
+
+> ⚠️ **Ethics Disclaimer**: All code, reports, and demonstrations are for portfolio purposes only. Testing performed exclusively in isolated, authorized lab environments (OWASP Juice Shop, Metasploitable, TryHackMe). No production or unauthorized systems were targeted.
